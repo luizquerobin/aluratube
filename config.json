@@ -1,96 +1,91 @@
 {
 	"name": "Luiz Querobin",
 	"job": "Web development student",
-	"bg" : "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1555&q=80",
+	"bg": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1555&q=80",
 	"github": "luizquerobin",
 	"playlists": {
-		"jogos": [
+		"japanese music": [
 			{
-				"title": "Frostpunk - Neve e Steak tartare",
-				"url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-				"thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+				"title": "【Ado】逆光（ウタ from ONE PIECE FILM RED",
+				"url": "https://youtu.be/gt-v_YCkaMY",
+				"thumb": "https://img.youtube.com/vi/gt-v_YCkaMY/maxresdefault.jpg"
 			},
 			{
-				"title": "Frostpunk - Neve e Steak tartare",
-				"url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-				"thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+				"title": "遊生夢死 - Eve MV",
+				"url": "https://youtu.be/roh_p2l8DHo",
+				"thumb": "https://img.youtube.com/vi/roh_p2l8DHo/maxresdefault.jpg"
 			},
 			{
-				"title": "Gas Station Simulator - 8 dias sem dormir!",
-				"url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-				"thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+				"title": "なとり - Overdose",
+				"url": "https://youtu.be/H08YWE4CIFQ",
+				"thumb": "https://img.youtube.com/vi/H08YWE4CIFQ/maxresdefault.jpg"
 			},
 			{
-				"title": "Gartic Phone - Não assista a esse NerdPlayer!",
-				"url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-				"thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+				"title": "米津玄師 Kenshi Yonezu - KICKBACK",
+				"url": "https://youtu.be/M2cckDmNLMI",
+				"thumb": "https://img.youtube.com/vi/M2cckDmNLMI/maxresdefault.jpg"
 			},
 			{
-				"title": "Netdecking Estraga o Magic?",
-				"url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-				"thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+				"title": "【Ado】踊",
+				"url": "https://youtu.be/YnSW8ian29w",
+				"thumb": "https://img.youtube.com/vi/YnSW8ian29w/maxresdefault.jpg"
 			},
 			{
-				"title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-				"url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-				"thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+				"title": "ずっと真夜中でいいのに。『残機』MV (ZUTOMAYO - Time Left)",
+				"url": "https://youtu.be/6OC92oxs4gA",
+				"thumb": "https://img.youtube.com/vi/6OC92oxs4gA/maxresdefault.jpg"
 			},
 			{
-				"title": "We Were Here Together - Os Enigmas deste Mundo",
-				"url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-				"thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+				"title": "Raon 라온 | ‘ヌエ(Mysterious Nue)’ M/V (Prod. FAKE TYPE.)",
+				"url": "https://youtu.be/OlTFqCWx2Ng",
+				"thumb": "https://img.youtube.com/vi/OlTFqCWx2Ng/maxresdefault.jpg"
 			},
 			{
-				"title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-				"url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-				"thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+				"title": "【Ado】ウタカタララバイ（ウタ from ONE PIECE FILM RED）",
+				"url": "https://youtu.be/hyV1AJiFNyo",
+				"thumb": "https://img.youtube.com/vi/hyV1AJiFNyo/maxresdefault.jpg"
+			},
+			{
+				"title": "Inochi no Tabetaka = EVE MV",
+				"url": "https://youtu.be/U7L-3VXAkSA",
+				"thumb": "https://img.youtube.com/vi/U7L-3VXAkSA/maxresdefault.jpg"
 			}
 		],
-		"front-end": [
+		"Brazilian Music": [
 			{
-				"title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-				"url": "https://youtube.com/watch?v=jOAU81jdi-c",
-				"thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+				"title": "O Melhor Som de Chainsaw Man Que Você Vai Ver (Chainsaw Man) - Vitch. Feat @OtaldoHiro ツ",
+				"url": "https://youtu.be/WW-eo12uaKU",
+				"thumb": "https://img.youtube.com/vi/WW-eo12uaKU/maxresdefault.jpg"
 			},
 			{
-				"title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-				"url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-				"thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+				"title": "Koda - Experimento de observação 5353 (prod. Okami)",
+				"url": "https://youtu.be/VFLGjovpFeM",
+				"thumb": "https://img.youtube.com/vi/VFLGjovpFeM/maxresdefault.jpg"
 			},
 			{
-				"title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-				"url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-				"thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+				"title": "Rodrigo Zin - Aki Hayakawa (Chainsaw Man)",
+				"url": "https://youtu.be/9p3l1lr9G1M",
+				"thumb": "https://img.youtube.com/vi/9p3l1lr9G1M/maxresdefault.jpg"
 			},
 			{
-				"title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-				"url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-				"thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+				"title": "Akashi Cruz - Uma dose de você...💔(Prod Dazz & 9RECORDS)",
+				"url": "https://youtu.be/Qv5r3oh8Jpg",
+				"thumb": "https://img.youtube.com/vi/Qv5r3oh8Jpg/maxresdefault.jpg"
 			},
 			{
-				"title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-				"url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-				"thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+				"title": "06 - Rodrigo Zin - Jujuba",
+				"url": "https://youtu.be/4ne42-JvsfU",
+				"thumb": "https://img.youtube.com/vi/4ne42-JvsfU/maxresdefault.jpg"
 			},
 			{
-				"title": "Como Foi Programado um App Que Faz Mágica",
-				"url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-				"thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+				"title": "Substitutos (Kuzu No Honkai) - OSteve",
+				"url": "https://youtu.be/TK2wKY8n4-U",
+				"thumb": "https://img.youtube.com/vi/TK2wKY8n4-U/maxresdefault.jpg"
 			},
 			{
-				"title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-				"url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-				"thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
-			},
-			{
-				"title": "5 Erros Históricos do CSS",
-				"url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-				"thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-			},
-			{
-				"title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-				"url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-				"thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+				"title": "Kant - Purgatório ll | Prod. Chiocki",
+				"url": "https://youtu.be/AQL0l69d_rs",
+				"thumb": "https://img.youtube.com/vi/AQL0l69d_rs/maxresdefault.jpg"
 			}
 		],
 		"back-end": [
