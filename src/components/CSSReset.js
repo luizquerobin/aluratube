@@ -20,6 +20,8 @@ export const CSSReset = createGlobalStyle`
     min-height: 100%;
   }
   body {
+		background-color: ${({ theme }) => theme.backgroundBase};
+		color: ${({ theme }) => theme.textColorBase};
     display: flex;
     flex: 1;
   }
