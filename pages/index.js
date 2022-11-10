@@ -49,7 +49,6 @@ const StyledHeader = styled.div`
 const StyledBanner = styled.div`
 	background-color: blue;
 	background-image: url(${({ bg }) => bg});
-	/* background-image: url(${config.bg}); */
 	background-size: cover;
 	height: 230px;
 `
@@ -79,7 +78,6 @@ function Timeline({ searchValue, ...props }) {
 		<StyledTimeline>
 			{playlistsNames.map((playlistName) => {
 				const videos = props.playlists[playlistName]
-				// console.log(videos)
 				return (
 					<section key={playlistName}>
 						<h2>{playlistName}</h2>

@@ -7,9 +7,6 @@ export const CSSReset = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
-	*::-webkit-scrollbar {
-		display: none;
-	}
   body {
     font-family: sans-serif;
   }
@@ -20,6 +17,9 @@ export const CSSReset = createGlobalStyle`
     min-height: 100%;
   }
   body {
+		::-webkit-scrollbar {
+			display: none;
+		}
 		background-color: ${({ theme }) => theme.backgroundBase};
 		color: ${({ theme }) => theme.textColorBase};
     display: flex;
