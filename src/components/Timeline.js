@@ -24,7 +24,6 @@ export const StyledTimeline = styled.div`
     overflow: hidden;
     padding: 16px;
     div {
-      
       width: calc(100vw - 16px * 4);
       display: grid;
       grid-gap: 16px;
@@ -33,6 +32,7 @@ export const StyledTimeline = styled.div`
       grid-auto-columns: minmax(200px,1fr);
       overflow-x: scroll;
       scroll-snap-type: x mandatory;
+			padding-bottom: 8px;
 			::-webkit-scrollbar {
         background-color: #e9e9e9;
         height: 8px;
@@ -42,6 +42,9 @@ export const StyledTimeline = styled.div`
         background-color: #666666;
         border-radius: 6px;
       }
+			img {
+				border-radius: 12px;
+			}
       a {
         scroll-snap-align: start;
         span {

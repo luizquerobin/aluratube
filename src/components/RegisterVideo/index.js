@@ -1,3 +1,4 @@
+import { createClient } from "@supabase/supabase-js";
 import React from "react";
 import { StyledRegisterVideo } from "./styles";
 
@@ -19,9 +20,17 @@ function useForm(propsDoForm) {
 	}
 }
 
+function getThumbnail(url) {
+	return `https://img.youtube.com/vi/${url.split("v=")[1]}/hqdefault.jpg`
+}
+
+const PROJECT_URL = 'https://slwhpddjofltpgijeswa.supabase.co'
+const PUBLIC_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNsd2hwZGRqb2ZsdHBnaWplc3dhIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjgxNjM0MDksImV4cCI6MTk4MzczOTQwOX0.dIiPY8CQRRrYf41wDMnoNk-M-cASYbBGR8wMw_2qs1o'
+const supabase = createClient(PROJECT_URL, PUBLIC_KEY)
+
 export default function RegisterVideo() {
 	const formCadastro = useForm({
-		initialValues: { titulo: "Inochi no Tabetaka - Eve", url: "https://youtube.com/" }
+		initialValues: { titulo: "Zutomayo Music", url: "https://youtu.be/6OC92oxs4gA" }
 	})
 	const [formVisivel, setFormVisivel] = React.useState(false)
 
@@ -36,8 +45,18 @@ export default function RegisterVideo() {
 						evento.preventDefault()
 						console.log(formCadastro.values)
 
-						setFormVisivel(false)
-						formCadastro.clearForm()
+						supabase.from('video').insert({
+							title: formCadastro.values.titulo,
+							url: formCadastro.values.url,
+							thumb: getThumbnail(formCadastro.values.url),
+							playlist: "outros"
+						})
+							.then((oqueveio) => {
+								console.log(oqueveio)
+							})
+							.catch((err) => {
+								console.log(err)
+							})
 					}}>
 						<div>
 							<button type="button" className="close-modal" onClick={() => setFormVisivel(false)}>

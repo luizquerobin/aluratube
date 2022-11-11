@@ -88,7 +88,7 @@
 				"thumb": "https://img.youtube.com/vi/AQL0l69d_rs/maxresdefault.jpg"
 			}
 		],
-		"back-end": [
+		"outros": [
 			{
 				"title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
 				"url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
