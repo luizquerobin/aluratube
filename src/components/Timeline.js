@@ -56,4 +56,22 @@ export const StyledTimeline = styled.div`
       }
     }
   }
+  #channels {
+    display: flex;
+    gap: 20px;
+    a {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: white;
+    }
+    img {
+      border-radius: 50%;
+      aspect-ratio: 1/1;
+      height: 100px;
+      width: 100px;
+      margin-bottom: 8px;
+    }
+  }
 `;

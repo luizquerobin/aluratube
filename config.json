@@ -1,129 +1,132 @@
 {
-	"name": "Luiz Querobin",
-	"job": "Web development student",
-	"bg": "https://cdn.discordapp.com/attachments/1040059594753458236/1040059649279406080/unknown.png",
-	"github": "luizquerobin",
-	"playlists": {
-		"japanese music": [
-			{
-				"title": "【Ado】逆光（ウタ from ONE PIECE FILM RED",
-				"url": "https://youtu.be/gt-v_YCkaMY",
-				"thumb": "https://img.youtube.com/vi/gt-v_YCkaMY/maxresdefault.jpg"
-			},
-			{
-				"title": "遊生夢死 - Eve MV",
-				"url": "https://youtu.be/roh_p2l8DHo",
-				"thumb": "https://img.youtube.com/vi/roh_p2l8DHo/maxresdefault.jpg"
-			},
-			{
-				"title": "なとり - Overdose",
-				"url": "https://youtu.be/H08YWE4CIFQ",
-				"thumb": "https://img.youtube.com/vi/H08YWE4CIFQ/maxresdefault.jpg"
-			},
-			{
-				"title": "米津玄師 Kenshi Yonezu - KICKBACK",
-				"url": "https://youtu.be/M2cckDmNLMI",
-				"thumb": "https://img.youtube.com/vi/M2cckDmNLMI/maxresdefault.jpg"
-			},
-			{
-				"title": "【Ado】踊",
-				"url": "https://youtu.be/YnSW8ian29w",
-				"thumb": "https://img.youtube.com/vi/YnSW8ian29w/maxresdefault.jpg"
-			},
-			{
-				"title": "ずっと真夜中でいいのに。『残機』MV (ZUTOMAYO - Time Left)",
-				"url": "https://youtu.be/6OC92oxs4gA",
-				"thumb": "https://img.youtube.com/vi/6OC92oxs4gA/maxresdefault.jpg"
-			},
-			{
-				"title": "Raon 라온 | ‘ヌエ(Mysterious Nue)’ M/V (Prod. FAKE TYPE.)",
-				"url": "https://youtu.be/OlTFqCWx2Ng",
-				"thumb": "https://img.youtube.com/vi/OlTFqCWx2Ng/maxresdefault.jpg"
-			},
-			{
-				"title": "【Ado】ウタカタララバイ（ウタ from ONE PIECE FILM RED）",
-				"url": "https://youtu.be/hyV1AJiFNyo",
-				"thumb": "https://img.youtube.com/vi/hyV1AJiFNyo/maxresdefault.jpg"
-			},
-			{
-				"title": "Inochi no Tabetaka - EVE MV",
-				"url": "https://youtu.be/U7L-3VXAkSA",
-				"thumb": "https://img.youtube.com/vi/U7L-3VXAkSA/maxresdefault.jpg"
-			}
-		],
-		"Brazilian Music": [
-			{
-				"title": "O Melhor Som de Chainsaw Man Que Você Vai Ver (Chainsaw Man) - Vitch. Feat @OtaldoHiro ツ",
-				"url": "https://youtu.be/WW-eo12uaKU",
-				"thumb": "https://img.youtube.com/vi/WW-eo12uaKU/maxresdefault.jpg"
-			},
-			{
-				"title": "Koda - Experimento de observação 5353 (prod. Okami)",
-				"url": "https://youtu.be/VFLGjovpFeM",
-				"thumb": "https://img.youtube.com/vi/VFLGjovpFeM/maxresdefault.jpg"
-			},
-			{
-				"title": "Rodrigo Zin - Aki Hayakawa (Chainsaw Man)",
-				"url": "https://youtu.be/9p3l1lr9G1M",
-				"thumb": "https://img.youtube.com/vi/9p3l1lr9G1M/maxresdefault.jpg"
-			},
-			{
-				"title": "Akashi Cruz - Uma dose de você...💔(Prod Dazz & 9RECORDS)",
-				"url": "https://youtu.be/Qv5r3oh8Jpg",
-				"thumb": "https://img.youtube.com/vi/Qv5r3oh8Jpg/maxresdefault.jpg"
-			},
-			{
-				"title": "06 - Rodrigo Zin - Jujuba",
-				"url": "https://youtu.be/4ne42-JvsfU",
-				"thumb": "https://img.youtube.com/vi/4ne42-JvsfU/maxresdefault.jpg"
-			},
-			{
-				"title": "Substitutos (Kuzu No Honkai) - OSteve",
-				"url": "https://youtu.be/TK2wKY8n4-U",
-				"thumb": "https://img.youtube.com/vi/TK2wKY8n4-U/maxresdefault.jpg"
-			},
-			{
-				"title": "Kant - Purgatório ll | Prod. Chiocki",
-				"url": "https://youtu.be/AQL0l69d_rs",
-				"thumb": "https://img.youtube.com/vi/AQL0l69d_rs/maxresdefault.jpg"
-			}
-		],
-		"outros": [
-			{
-				"title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-				"url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-				"thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
-			},
-			{
-				"title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-				"url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-				"thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
-			},
-			{
-				"title": "O que é o Java? #HipstersPontoTube",
-				"url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-				"thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
-			},
-			{
-				"title": "O que é Machine Learning? #HipstersPontoTube",
-				"url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-				"thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
-			},
-			{
-				"title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-				"url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-				"thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
-			},
-			{
-				"title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-				"url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-				"thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
-			},
-			{
-				"title": "O que é o C#? #HipstersPontoTube",
-				"url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-				"thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
-			}
-		]
-	}
+  "name": "Luiz Querobin",
+  "job": "Web development student",
+  "bg": "https://cdn.discordapp.com/attachments/1040059594753458236/1040059649279406080/unknown.png",
+  "github": "luizquerobin",
+  "channels": {
+    "Fav Channels": {}
+  },
+  "playlists": {
+    "japanese music": [
+      {
+        "title": "【Ado】逆光（ウタ from ONE PIECE FILM RED",
+        "url": "https://youtu.be/gt-v_YCkaMY",
+        "thumb": "https://img.youtube.com/vi/gt-v_YCkaMY/maxresdefault.jpg"
+      },
+      {
+        "title": "遊生夢死 - Eve MV",
+        "url": "https://youtu.be/roh_p2l8DHo",
+        "thumb": "https://img.youtube.com/vi/roh_p2l8DHo/maxresdefault.jpg"
+      },
+      {
+        "title": "なとり - Overdose",
+        "url": "https://youtu.be/H08YWE4CIFQ",
+        "thumb": "https://img.youtube.com/vi/H08YWE4CIFQ/maxresdefault.jpg"
+      },
+      {
+        "title": "米津玄師 Kenshi Yonezu - KICKBACK",
+        "url": "https://youtu.be/M2cckDmNLMI",
+        "thumb": "https://img.youtube.com/vi/M2cckDmNLMI/maxresdefault.jpg"
+      },
+      {
+        "title": "【Ado】踊",
+        "url": "https://youtu.be/YnSW8ian29w",
+        "thumb": "https://img.youtube.com/vi/YnSW8ian29w/maxresdefault.jpg"
+      },
+      {
+        "title": "ずっと真夜中でいいのに。『残機』MV (ZUTOMAYO - Time Left)",
+        "url": "https://youtu.be/6OC92oxs4gA",
+        "thumb": "https://img.youtube.com/vi/6OC92oxs4gA/maxresdefault.jpg"
+      },
+      {
+        "title": "Raon 라온 | ‘ヌエ(Mysterious Nue)’ M/V (Prod. FAKE TYPE.)",
+        "url": "https://youtu.be/OlTFqCWx2Ng",
+        "thumb": "https://img.youtube.com/vi/OlTFqCWx2Ng/maxresdefault.jpg"
+      },
+      {
+        "title": "【Ado】ウタカタララバイ（ウタ from ONE PIECE FILM RED）",
+        "url": "https://youtu.be/hyV1AJiFNyo",
+        "thumb": "https://img.youtube.com/vi/hyV1AJiFNyo/maxresdefault.jpg"
+      },
+      {
+        "title": "Inochi no Tabetaka - EVE MV",
+        "url": "https://youtu.be/U7L-3VXAkSA",
+        "thumb": "https://img.youtube.com/vi/U7L-3VXAkSA/maxresdefault.jpg"
+      }
+    ],
+    "Brazilian Music": [
+      {
+        "title": "O Melhor Som de Chainsaw Man Que Você Vai Ver (Chainsaw Man) - Vitch. Feat @OtaldoHiro ツ",
+        "url": "https://youtu.be/WW-eo12uaKU",
+        "thumb": "https://img.youtube.com/vi/WW-eo12uaKU/maxresdefault.jpg"
+      },
+      {
+        "title": "Koda - Experimento de observação 5353 (prod. Okami)",
+        "url": "https://youtu.be/VFLGjovpFeM",
+        "thumb": "https://img.youtube.com/vi/VFLGjovpFeM/maxresdefault.jpg"
+      },
+      {
+        "title": "Rodrigo Zin - Aki Hayakawa (Chainsaw Man)",
+        "url": "https://youtu.be/9p3l1lr9G1M",
+        "thumb": "https://img.youtube.com/vi/9p3l1lr9G1M/maxresdefault.jpg"
+      },
+      {
+        "title": "Akashi Cruz - Uma dose de você...💔(Prod Dazz & 9RECORDS)",
+        "url": "https://youtu.be/Qv5r3oh8Jpg",
+        "thumb": "https://img.youtube.com/vi/Qv5r3oh8Jpg/maxresdefault.jpg"
+      },
+      {
+        "title": "06 - Rodrigo Zin - Jujuba",
+        "url": "https://youtu.be/4ne42-JvsfU",
+        "thumb": "https://img.youtube.com/vi/4ne42-JvsfU/maxresdefault.jpg"
+      },
+      {
+        "title": "Substitutos (Kuzu No Honkai) - OSteve",
+        "url": "https://youtu.be/TK2wKY8n4-U",
+        "thumb": "https://img.youtube.com/vi/TK2wKY8n4-U/maxresdefault.jpg"
+      },
+      {
+        "title": "Kant - Purgatório ll | Prod. Chiocki",
+        "url": "https://youtu.be/AQL0l69d_rs",
+        "thumb": "https://img.youtube.com/vi/AQL0l69d_rs/maxresdefault.jpg"
+      }
+    ],
+    "outros": [
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+      },
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+      },
+      {
+        "title": "O que é o Java? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+        "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+      },
+      {
+        "title": "O que é Machine Learning? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+        "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+      },
+      {
+        "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+        "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+      },
+      {
+        "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+        "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+      },
+      {
+        "title": "O que é o C#? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+        "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+      }
+    ]
+  }
 }
